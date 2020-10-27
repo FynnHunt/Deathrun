@@ -1,0 +1,2 @@
+Build/DeathrunWebGL.data filter=lfs diff=lfs merge=lfs -text
+Build/DeathrunWebGL.asm.code.js filter=lfs diff=lfs merge=lfs -text
